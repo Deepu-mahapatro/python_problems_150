@@ -14,5 +14,5 @@ print(s)
 
 
 #using lamda function
-result=lambda p,t,r:(p*t*r)/100
-print(result(8,6,8))
+ result=lambda p,t,r:(p*t*r)/100
+ print(result(8,6,8))
