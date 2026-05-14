@@ -1,4 +1,4 @@
-#FIND SMALLEST NUMBER IN THE ARRAY
+#FIND SMALLEST NUMBER IN THE ARRAY 
 arr=[1,2,3,4,5]
 smallest=arr[0]
 n=len(arr)
